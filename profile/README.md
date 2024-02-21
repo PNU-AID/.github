@@ -6,7 +6,9 @@ We were established in the first semester of 2022 and engage in activities relat
 
 Velog Link : https://velog.io/@pnuaid1020/posts
 
-Guide Line : https://github.com/PNU-AID/Guide-line
+Guideline Link : https://github.com/PNU-AID/Guide-line
+
+Homepage Link : https://pnu-aid.github.io/homepage/
 <!--
 
 **Here are some ideas to get you started:**
