@@ -9,6 +9,8 @@ Velog Link : https://velog.io/@pnuaid1020/posts
 Guideline Link : https://github.com/PNU-AID/Guide-line
 
 Homepage Link : https://pnu-aid.github.io/homepage/
+
+Notion Link : https://cookie-quill-a7f.notion.site/AID-AI-Developer-1cd5b10fb16e488489be4d9f17a47f97?pvs=4
 <!--
 
 **Here are some ideas to get you started:**
