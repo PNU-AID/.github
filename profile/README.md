@@ -4,7 +4,7 @@ This organization is an artificial intelligence club affiliated with the Departm
 
 We were established in the first semester of 2022 and engage in activities related to artificial intelligence, such as study groups, competitions, and seminars, aiming for self-improvement.
 
-Velog Link : https://velog.io/@pnuaid1020/posts
+Velog Link : https://velog.io/@aideveloper
 
 Guideline Link : https://github.com/PNU-AID/Guide-line
 
